@@ -1,0 +1,11 @@
+flask
+flask-cors
+flask-sqlalchemy
+apscheduler
+python-dateutil
+python-dotenv
+openai
+google-api-python-client
+google-auth
+pypdf
+python-docx
